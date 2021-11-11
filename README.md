@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <a href="[mailto:qlstn9150@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **qlstn9150/qlstn9150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
